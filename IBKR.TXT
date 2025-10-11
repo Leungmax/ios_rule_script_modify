@@ -1,0 +1,12 @@
+HOST-SUFFIX,interactivebrokers.ca,Proxy
+HOST-SUFFIX,interactivebrokers.co.uk,Proxy
+HOST-SUFFIX,interactivebrokers.co.in,Proxy
+HOST-SUFFIX,interactivebrokers.co.jp,Proxy
+HOST-SUFFIX,ibkr.com,Proxy
+HOST-SUFFIX,ibkr.com.cn,Proxy
+HOST-SUFFIX,interactivebrokers.com,Proxy
+HOST-SUFFIX,interactivebrokers.com.hk,Proxy
+HOST-SUFFIX,interactivebrokers.com.au,Proxy
+HOST-SUFFIX,ibllc.com,Proxy
+HOST-SUFFIX,ibllc.com.cn,Proxy
+HOST-SUFFIX,zacks.com,Proxy
